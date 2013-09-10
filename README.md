@@ -12,4 +12,4 @@ Information and Instruction
 - OpenCBS ensures every issue is receiving an answer in maximum 48 hours after posting. 
 
 You don't like forums ;(     
-No problem :) you can as well get in touch with us through the followings: skype:info.opencbs  Mail: contact@opencbs.com and web http://opencbs.com/
+No problem :) you can as well get in touch with us through the followings: skype:info.opencbs ,  Mail: contact@opencbs.com and web http://opencbs.com/
