@@ -4,6 +4,7 @@ OpenCBS-Forum
 You are an OpenCBS Community Member and want to ask a question, receive help or request a development. Create an issue in this repository
 
 Information and Instruction
+- If you want to post an issue you will be asked to create a GitHub account. If you face any issue in this process get in touch with us.
 - This repository aims at being the interface between OpenCBS users and the development team and gather issues, questions or suggestions from the community.
 - Discussions lead in this repository can lead to adjustment in the core system. In that case issues will be created in the core repository of the software: https://github.com/PavelBastov/opencbs and as such adjust the core system
 - Before creating a new issue, ensure no similar issue has been already posted by another community member.
